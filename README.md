@@ -1,0 +1,2 @@
+# Sistemalogin
+Este programa em Python simula um sistema básico de autenticação, permitindo que o usuário faça até três tentativas para acessar o sistema com credenciais corretas. O programa fornece feedback sobre o número de tentativas restantes e, em caso de falha após três tentativas, bloqueia o acesso exibindo uma mensagem de aviso repetida, garantindo uma experiência simples e segura de login
